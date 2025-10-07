@@ -1,0 +1,26 @@
+[
+    {
+        "id": "burger_cheese",
+        "name": "Cheeseburger",
+        "price": 5.99,
+        "image": "/images/cheeseburger.png"
+    },
+    {
+        "id": "burger_bacon",
+        "name": "Bacon Burger",
+        "price": 6.99,
+        "image": "/images/bacon_burger.png"
+    },
+    {
+        "id": "fries",
+        "name": "French Fries",
+        "price": 2.99,
+        "image": "/images/fries.png"
+    },
+    {
+        "id": "cola",
+        "name": "Coca-Cola",
+        "price": 1.99,
+        "image": "/images/cola.png"
+    }
+]
